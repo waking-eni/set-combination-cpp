@@ -8,7 +8,6 @@ int main()
     s1.insert(3);
     s1.print();
 
-
     s2.insert(32);
     s2.insert(1);
     s2.insert(10);
